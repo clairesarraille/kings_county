@@ -2,6 +2,8 @@
 
 Another module down--you're almost half way there!
 
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
+
 All that remains in Phase 2 is to put our newfound data science skills to use with a large project! This project should take 20 to 30 hours to complete.
 
 ## Project Overview
