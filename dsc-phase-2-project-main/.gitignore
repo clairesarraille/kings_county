@@ -4,3 +4,5 @@
 __pycache__
 *.db
 *.pytest_cache
+dsc-phase-2-project-main/old_versions/
+dsc-phase-2-project-main/scratch/
