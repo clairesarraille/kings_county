@@ -1,7 +1,6 @@
-# Phase Two Project for Flatiron School
+# Calculating the Most Lucrative Renovations Based on Kings County Housing Dataset
 
-- Location of Code:
-  -  dsc-phase-2-project-main/***student.ipynb***
+All code can be found in the Jupyter Notebook KINGS_COUNTY_PROJECT.ipynb.
 
 Data are a curated collection of home sale data from Kings County, Washington.
 All column descriptions can be found on the real Kings County website, here:
